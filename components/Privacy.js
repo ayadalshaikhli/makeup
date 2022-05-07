@@ -85,7 +85,7 @@ function Privacy() {
           </div>
         </div>
         <div className="shipping__info flex pb-3">
-          <h1 className="p-10 sm:w-2 text-center bg-gray-800/75 rounded-md">
+          <h1 className="p-10 sm:w-1/4 text-center bg-gray-800/75 rounded-md">
             You can email us at tataroskijewelry@gmail.com and ask:
           </h1>
           <ul

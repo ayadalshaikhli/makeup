@@ -50,9 +50,7 @@ export default function Nav() {
   return (
     <header className="fixed w-full  flex flex-col text-center z-20  text-white colornav navbar">
       <div className="shipping text-center bg-gray-800/40">
-        <h1>
-          {free} {Good}
-        </h1>
+        <h1>FREE SHIPPING</h1>
       </div>
       <div className="nav-main   flex flex-col justify-around sm:flex-row p-2  text-center items-center">
         <div className="logo">
