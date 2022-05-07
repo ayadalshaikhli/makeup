@@ -48,11 +48,11 @@ export default function Nav() {
   });
 
   return (
-    <header className="fixed w-full  flex flex-col text-center z-20  text-white colornav navbar">
-      <div className="shipping text-center bg-gray-800/40">
+    <header className="fixed w-full  flex flex-col text-center z-20   text-white colornav navbar">
+      <div className="shipping text-center bg-gray-800/90">
         <h1>FREE SHIPPING</h1>
       </div>
-      <div className="nav-main   flex flex-col justify-around sm:flex-row p-2  text-center items-center">
+      <div className="nav-main bg-gray-800/90 rounded-b-lg  flex flex-col justify-around sm:flex-row p-2  text-center items-center">
         <div className="logo">
           <Link href="/" passHref>
             <a className="cursor-pointer">
